@@ -10,4 +10,4 @@ class CashboxApplicationTests {
 	void contextLoads() {
 	}
 
-}
+	}
